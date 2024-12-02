@@ -1,0 +1,159 @@
+
+div.Tabela_01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:auto;
+	height:auto;
+}
+
+div.stronaglowna-01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:auto;
+	height:auto;
+}
+
+.stronaglowna-02 {
+	position:absolute;
+	left:433px;
+	top:0px;
+	width:auto;
+	height:auto;
+}
+
+div.stronaglowna-03 {
+	position:absolute;
+	left:1496px;
+	top:0px;
+	width:424px;
+	height:114px;
+}
+
+div.stronaglowna-04 {
+	position:absolute;
+	left:0px;
+	top:114px;
+	width:1920px;
+	height:274px;
+}
+
+div.stronaglowna-05 {
+	position:absolute;
+	left:0px;
+	top:388px;
+	width:398px;
+	height:573px;
+}
+
+.stronaglowna-06 {
+	position:absolute;
+	left:398px;
+	top:388px;
+	width:1133px;
+	height:472px;
+}
+
+
+div.stronaglowna-07 {
+	position:absolute;
+	left:1531px;
+	top:388px;
+	width:389px;
+	height:472px;
+}
+
+div.stronaglowna-08 {
+	position:absolute;
+	left:398px;
+	top:860px;
+	width:1522px;
+	height:101px;
+}
+
+div.stronaglowna-09 {
+	position:absolute;
+	left:0px;
+	top:961px;
+	width:1920px;
+	height:119px;
+}
+.strona_glowna{
+    position:absolute;
+    top: 4vh;
+	left: 3vw; 
+	font-size: 3vh; 
+}
+.strona_glowna a{
+    text-decoration: none;
+    color:white;
+}
+.strona_glowna a:hover{
+    color:black;
+}
+.aktualnosci{
+    position:absolute;
+    top: 4vh;
+	left: 16vw; 
+	font-size: 3vh; 
+}
+.dziennik{
+    position:absolute;
+    top: 4vh;
+	left: 29vw; 
+	font-size: 3vh; 
+}
+.kontakt{
+    position:absolute;
+    top: 4vh;
+	left: 40vw; 
+	font-size: 3vh; 
+}
+.nabor{
+    position:absolute;
+    top: 4vh;
+	left: 50vw; 
+	font-size: 3vh; 
+}
+.aktualnosci a{
+    text-decoration: none;
+    color:white;
+}
+.aktualnosci a:hover{
+    color:black;
+}
+.dziennik a{
+    text-decoration: none;
+    color:white;
+}
+.dziennik a:hover{
+    color:black;
+}
+.kontakt a{
+    text-decoration: none;
+    color:white;
+}
+.kontakt a:hover{
+    color:black;
+}
+.nabor a{
+    text-decoration: none;
+    color:white;
+}
+.nabor a:hover{
+    color:black;
+}
+.opis{
+    position: absolute;
+    top: 2vh;
+	left: 30vw; 
+	font-size: 3vh;
+}
+.footer{
+    position: absolute;
+    top: 3vh;
+	left: 30vw; 
+	font-size: 2vh;
+}
+

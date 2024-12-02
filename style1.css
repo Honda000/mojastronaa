@@ -1,0 +1,160 @@
+div.Tabela_01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1920px;
+	height:1080px;
+}
+
+div.aktualnosci-01_ {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:433px;
+	height:114px;
+}
+
+div.aktualnosci-02_ {
+	position:absolute;
+	left:433px;
+	top:0px;
+	width:1063px;
+	height:114px;
+}
+
+div.aktualnosci-03_ {
+	position:absolute;
+	left:1496px;
+	top:0px;
+	width:424px;
+	height:114px;
+}
+
+div.aktualnosci-04_ {
+	position:absolute;
+	left:0px;
+	top:114px;
+	width:1920px;
+	height:71px;
+}
+
+div.aktualnosci-05_ {
+	position:absolute;
+	left:0px;
+	top:185px;
+	width:547px;
+	height:776px;
+}
+
+div.aktualnosci-06_ {
+	position:absolute;
+	left:547px;
+	top:185px;
+	width:826px;
+	height:776px;
+}
+
+div.aktualnosci-07_ {
+	position:absolute;
+	left:1373px;
+	top:185px;
+	width:547px;
+	height:776px;
+}
+
+div.aktualnosci-08_ {
+	position:absolute;
+	left:0px;
+	top:961px;
+	width:1920px;
+	height:119px;
+}
+.strona_glowna{
+    position:absolute;
+    top: 4vh;
+	left: 3vw; 
+	font-size: 3vh; 
+}
+.strona_glowna a{
+    text-decoration: none;
+    color:white;
+}
+.strona_glowna a:hover{
+    color:black;
+}
+.aktualnosci{
+    position:absolute;
+    top: 4vh;
+	left: 16vw; 
+	font-size: 3vh; 
+}
+.dziennik{
+    position:absolute;
+    top: 4vh;
+	left: 29vw; 
+	font-size: 3vh; 
+}
+.kontakt{
+    position:absolute;
+    top: 4vh;
+	left: 40vw; 
+	font-size: 3vh; 
+}
+.nabor{
+    position:absolute;
+    top: 4vh;
+	left: 50vw; 
+	font-size: 3vh; 
+}
+.aktualnosci a{
+    text-decoration: none;
+    color:white;
+}
+.aktualnosci a:hover{
+    color:black;
+}
+.dziennik a{
+    text-decoration: none;
+    color:white;
+}
+.dziennik a:hover{
+    color:black;
+}
+.kontakt a{
+    text-decoration: none;
+    color:white;
+}
+.kontakt a:hover{
+    color:black;
+}
+.nabor a{
+    text-decoration: none;
+    color:white;
+}
+.nabor a:hover{
+    color:black;
+}
+.opis_obrazka1{
+    position:absolute;
+    top: 35vh;
+	left: 4vw; 
+	font-size: 3vh; 
+}
+.opis_obrazka2{
+    position:absolute;
+    top: 35vh;
+	left: 4vw; 
+	font-size: 3vh; 
+}
+.opis_obrazka3{
+    position:absolute;
+    top: 35vh;
+	left: 0vw; 
+	font-size: 3vh; 
+}
+.footer{
+    position: absolute;
+    top: 3vh;
+	left: 30vw; 
+	font-size: 2vh;
+}
